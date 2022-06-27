@@ -1,5 +1,11 @@
 # Contact-Web-Application-Using-Springboot
-### **Video Demo**: https://youtu.be/Hft1bP16ZfM
+
+## Technologies
+
+-Java
+-HTML
+
+### **Video Demo**: [CS50.FinalProject](https://youtu.be/Hft1bP16ZfM)
 ### **Disclaimer** : As a self learning CS student, if I make any mistake when it comes to terminology, I am really sorry. I started my journey with CS50 and this is my first project.
 ## **Description**:
 I use Java Springboot for the backend, mySQL for the database and HTML for the frontend. 
