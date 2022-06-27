@@ -8,4 +8,10 @@
 ### ContactRepository.java from Repository package is an interface that extends JpaRepository so that the methods that might use in service implementation are no longer needed to be coded.
 ### ContactServiceImpl.java from Service package implements the ContactService.java interface accepts ContactRepository as a constructor which is used to overwrite Service methods.
 ### Dependency injections are used to make the codes clean and reusable.
+## Web HTML
+### I use Thymeleaf template engine alongside with bootstrap.
+### To add a new contact, we have to click on the "Add New Contact" buttom which will leads to the new web page where we can see 4 boxes to fill, first name, last name, email address and phone number. After filling all of those boxes, click "submit" or hit enter to submit the contact. Then, we will be back to the main web page with a new contact displaying in the table.
+### There is an "Action" column where you can update or delete the Contact just by clicking the relevant buttom. Updating the contact will lead us to the web page kind of similar to the create web page where you can change all of the attributes. After updating the contact, click "submit" or hit enter to update the contact. Then, we will be back to the main web page with a updated contact displaying in the table. Deleting the contact will remove the contact from the table.
+### As I use mySQL database system, we can store a lot of contacts in this contact system.
 >Thanks for reading till the end.
+
