@@ -3,6 +3,7 @@
 ## Technologies
 
 -Java
+
 -HTML
 
 ### **Video Demo**: [CS50.FinalProject](https://youtu.be/Hft1bP16ZfM)
